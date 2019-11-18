@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "src/api/*.js": true,
+    "src/stores/*.js": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": [
+    "inversed"
+  ]
+}
