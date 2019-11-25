@@ -1,5 +1,5 @@
 {
-  "name": "yaynay-react",
+  "name": "yaynay",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,6 @@
     "build": "parcel build index.html"
   },
   "author": "",
-  "license": "ISC",
   "dependencies": {
     "@material-ui/core": "^4.6.1",
     "@material-ui/icons": "^4.5.1",
